@@ -48,7 +48,7 @@ namespace Kolokwium_PO
                         numerSeryjny = ZczytywanieNumeruSeryjnego();
                         Console.WriteLine();
                         Console.WriteLine("Podaj usterkę:");
-                        serwis.DodajPralke(marka, numerSeryjny, Console.ReadLine());
+                        serwis.DodajLodowke(marka, numerSeryjny, Console.ReadLine());
                         WypiszKoniecMenu("Dodano lodówkę do serwisu.");
                         break;
                     case "C":
