@@ -1,0 +1,6 @@
+D:\PatrykS\Kolokwium_PO\Kolokwium_PO\bin\Debug\Kolokwium_PO.exe.config
+D:\PatrykS\Kolokwium_PO\Kolokwium_PO\obj\Debug\Kolokwium_PO.csprojResolveAssemblyReference.cache
+D:\PatrykS\Kolokwium_PO\Kolokwium_PO\bin\Debug\Kolokwium_PO.exe
+D:\PatrykS\Kolokwium_PO\Kolokwium_PO\bin\Debug\Kolokwium_PO.pdb
+D:\PatrykS\Kolokwium_PO\Kolokwium_PO\obj\Debug\Kolokwium_PO.exe
+D:\PatrykS\Kolokwium_PO\Kolokwium_PO\obj\Debug\Kolokwium_PO.pdb
